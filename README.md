@@ -1,2 +1,2 @@
 # Mini-Projects
-XML Data Wrangling
+Data Wrangling
