@@ -1,2 +1,0 @@
-# Mini-Projects
-Data Wrangling
